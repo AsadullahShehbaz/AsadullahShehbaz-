@@ -7,18 +7,17 @@
 
 - 🔭 I’m working on real-world AI projects to solve problems with data!
 - 🌱 Currently exploring: **Deep Learning** & **Time Series Forecasting**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/AsadullahShehbaz)
 - 💬 Ask me about: `Python`, `Machine Learning`, `Deep Learning`, `EDA`
-- 📫 Reach me at: **[asadullahcreative@gmail.com]**
+- 📫 Reach me at: **asadullahcreative@gmail.com**
 - ⚡ Fun fact: I turn coffee ☕ into code.
 
 ---
 
 ### 🔗 Connect With Me
 
-| 📛 Name | 📧 Email | 🔗 LinkedIn | 💻 GitHub | 🧠 Kaggle |
-|--------|----------|-------------|------------|-----------|
-| **Asadullah Shehbaz** | asadullahcreative@gmail.com | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-shehbaz-18172a2bb/) | [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsadullahShehbaz) | [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/asadullahcreative) |
+| 📛 Name | 📧 Email | 🔗 LinkedIn | 📘 Facebook | 📷 Instagram | 🧠 Kaggle |
+|--------|----------|-------------|-------------|------------------|-----------|
+| **Asadullah Shehbaz** | asadullahcreative@gmail.com | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-shehbaz-18172a2bb/) | [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61576230402114) | [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asad_ullahshehbaz/) | [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/asadullahcreative) |
 
 ---
 
@@ -34,19 +33,8 @@ Each notebook demonstrates a unique application of modeling, analysis, and optim
 | 🌦️ **Climate Forecasting with Prophet** | Time series forecasting using Facebook Prophet | [View Notebook](https://www.kaggle.com/code/asadullahcreative/climate-forecasting-prophet) |
 | 🧪 **Model Selection & Hyperparameter Tuning** | Comparing models with GridSearchCV and tuning | [View Notebook](https://www.kaggle.com/code/asadullahcreative/best-model-selection-with-hyper-parameter-tuning) |
 | 🎬 **IMDB Sentiment Analysis (LSTM)** | NLP with deep learning using LSTM networks | [View Notebook](https://www.kaggle.com/code/asadullahcreative/imdb-reviews-sentiment-analysis-lstm) |
-| 📈 **ARIMA Time Series Forecasting** | Fast and intuitive ARIMA modeling for time series | [View Notebook](https://www.kaggle.com/code/asadullahcreative/time-series-forecasting-arima-easy-fast) |
-| 🏦 **Bank Churn Prediction** | EDA + XGBoost + ANN for customer retention modeling | [View Notebook](https://www.kaggle.com/code/asadullahcreative/bank-churn-prediction-eda-xgboost-ann) |
+| 📈 **ARIMA Time Series Forecasting** | Fast and intuitive ARIMA
 
-
----
-
-### 💡 Why These Projects Matter  
-Each notebook reflects my passion for solving real-world problems using Python, machine learning, and deep learning.  
-From healthcare to finance, I aim to build interpretable, scalable, and impactful solutions.
-
-
-
----
 ### 🚀 My Tech Stack
 
 <p align="left">
