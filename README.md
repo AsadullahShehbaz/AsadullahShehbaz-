@@ -9,39 +9,44 @@
 - 🌱 Currently exploring: **Deep Learning** & **Time Series Forecasting**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/AsadullahShehbaz)
 - 💬 Ask me about: `Python`, `Machine Learning`, `Deep Learning`, `EDA`
-- 📫 Reach me at: **[Your Email]**
+- 📫 Reach me at: **[asadullahcreative@gmail.com]**
 - ⚡ Fun fact: I turn coffee ☕ into code.
 
 ---
 
 ### 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="linkedin" />
-  </a>
-  <a href="https://kaggle.com/yourusername" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle" alt="kaggle" />
-  </a>
-  <a href="mailto:youremail@example.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="gmail" />
-  </a>
-</p>
+| 📛 Name | 📧 Email | 🔗 LinkedIn | 💻 GitHub | 🧠 Kaggle |
+|--------|----------|-------------|------------|-----------|
+| **Asadullah Shehbaz** | asadullahcreative@gmail.com | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-shehbaz-18172a2bb/) | [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsadullahShehbaz) | [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/asadullahcreative) |
 
 ---
 
-### 💼 Projects Showcase
+## 🚀 Featured Kaggle Projects  
+Explore a selection of my data science and machine learning projects hosted on Kaggle.  
+Each notebook demonstrates a unique application of modeling, analysis, and optimization techniques.
 
-| 🔍 Project Title | 🚀 Description |
-|------------------|----------------|
-| [Titanic Prediction 🚢](https://github.com/AsadullahShehbaz/Titanic-Prediction) | Classification model predicting survival of Titanic passengers |
-| [Bank Churn Prediction 💳](https://github.com/AsadullahShehbaz/Bank-Churn) | ML model identifying customers likely to leave the bank |
-| [IMDB Sentiment Analysis 🎬](https://github.com/AsadullahShehbaz/IMDB-Sentiment-Analysis) | NLP model analyzing positive/negative movie reviews |
-| [Heart Disease Prediction ❤️](https://github.com/AsadullahShehbaz/Heart-Disease-Prediction) | Predicting heart disease using medical parameters |
-| [CNN Image Classifier 🧠](https://github.com/AsadullahShehbaz/CNN-Image-Classifier) | Image classification using Convolutional Neural Networks |
+| 📌 Project | 🔍 Description | 🔗 Link |
+|-----------|----------------|--------|
+| 🫀 **Heart Disease Classifier** | Exploratory Data Analysis + ML models to predict heart disease | [View Notebook](https://www.kaggle.com/code/asadullahcreative/heart-disease-classifier-eda-ml) |
+| 🧠 **CNN Image Classifier** | Quick-start TensorFlow CNN for image classification | [View Notebook](https://www.kaggle.com/code/asadullahcreative/cnn-image-classifier-tensorflow-quick-start) |
+| 🚢 **Titanic Survival Prediction** | ML pipeline + ANN for classic classification challenge | [View Notebook](https://www.kaggle.com/code/asadullahcreative/titanic-survival-prediction-ml-pipeline-ann) |
+| 🌦️ **Climate Forecasting with Prophet** | Time series forecasting using Facebook Prophet | [View Notebook](https://www.kaggle.com/code/asadullahcreative/climate-forecasting-prophet) |
+| 🧪 **Model Selection & Hyperparameter Tuning** | Comparing models with GridSearchCV and tuning | [View Notebook](https://www.kaggle.com/code/asadullahcreative/best-model-selection-with-hyper-parameter-tuning) |
+| 🎬 **IMDB Sentiment Analysis (LSTM)** | NLP with deep learning using LSTM networks | [View Notebook](https://www.kaggle.com/code/asadullahcreative/imdb-reviews-sentiment-analysis-lstm) |
+| 📈 **ARIMA Time Series Forecasting** | Fast and intuitive ARIMA modeling for time series | [View Notebook](https://www.kaggle.com/code/asadullahcreative/time-series-forecasting-arima-easy-fast) |
+| 🏦 **Bank Churn Prediction** | EDA + XGBoost + ANN for customer retention modeling | [View Notebook](https://www.kaggle.com/code/asadullahcreative/bank-churn-prediction-eda-xgboost-ann) |
+
 
 ---
 
+### 💡 Why These Projects Matter  
+Each notebook reflects my passion for solving real-world problems using Python, machine learning, and deep learning.  
+From healthcare to finance, I aim to build interpretable, scalable, and impactful solutions.
+
+
+
+---
 ### 🚀 My Tech Stack
 
 <p align="left">
